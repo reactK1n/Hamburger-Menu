@@ -28,6 +28,7 @@ li{
     font-weight: 700;
     line-height: 5rem;
     color:rgb(35, 66, 149);
+    cursor: pointer;
 }
 li:hover{
   border-block: 2px solid rgb(35, 66, 149);
@@ -89,6 +90,7 @@ i{
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.112), -10px -10px 15px rgba(255, 255, 255, 0.106),
     inset 5px 5px 5px rgba(255, 255, 255, 0.218), inset -5px -5px 5px rgba(0, 0, 0, 0.106);
     border-radius: 90% 20% 90% 20% / 90% 50% 90% 50%;
+    cursor: pointer;
 
 }
 
